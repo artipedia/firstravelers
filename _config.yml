@@ -46,3 +46,5 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+encoding: UTF-8
