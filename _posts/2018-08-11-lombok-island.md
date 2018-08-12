@@ -3,7 +3,7 @@ layout: post
 title: 'Lombok Island'
 featured-img: lombok-island
 mathjax: true
-category: [destination]
+category: destination
 ---
 
 <p>Lombok island is an island located to the East of the island of Bali. The island is a part of the Lesser Sunda Islands. To the West of the island of Lombok, Lombok Strait of Bali exists while in the Eastern island of Lombok Strait, there is an Atlas. Administratively, the island of Lombok's entry in the area of Government of the province of Nusa Tenggara Barat (NTB). NTB is divided into two large islands, namely Pulau Lombok and Sumbawa.</p><p>
