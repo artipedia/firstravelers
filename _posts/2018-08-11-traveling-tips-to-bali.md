@@ -8,7 +8,7 @@ categories: [tips]
 
 Bali is unpredictable. This is the beauty and fascination that attracts so many people who come here regularly and fell in love with this place.
 
-<table summary="Know what's coming" class="table table-striped">
+<table>
   <tbody>
     <tr>
       <th colspan="2 ">Visa and Passport</th>
