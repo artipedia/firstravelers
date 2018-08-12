@@ -2,7 +2,6 @@
 layout: post
 title: 'Bali is Wonderful Island'
 featured-img: bali
-mathjax: true
 categories: destination
 ---
 
