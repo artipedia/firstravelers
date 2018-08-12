@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Traveling Tips To Bali
-featured-img: bali.png
+featured-img: bali
 mathjax: true
 ---
 
