@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lombok Island'
-featured-img: lombokisland
+title: Lombok Island
+featured-img: lombok-island
 mathjax: true
 category: destination
 ---
