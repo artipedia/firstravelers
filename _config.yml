@@ -1,7 +1,7 @@
 title: FirsTravelers
 author: ArtiPedia
 email: artipedia243@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > 
   Travel blog to inspire and get you motivated
 baseurl: "/"
 url: "https://firstravelers.com"
@@ -9,7 +9,7 @@ twitter_username:  # replace with your_twitter_username or comment to remove lin
 github_username:  ArtiPedia
 instagram_username:  # replace with your_instagram_username or comment to remove link from footer
 social:
-  name: Your Name
+  name: ArtiPedia
   links:
     - https://twitter.com/ 
     - https://www.facebook.com/ 
@@ -19,7 +19,7 @@ social:
     - https://keybase.io/ 
 
 disqus:
-  shortname:   # to enable comments replace with your_disqus_shortname
+  shortname: FirsTravelers
 
 # Build settings
 markdown: kramdown
