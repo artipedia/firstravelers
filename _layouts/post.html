@@ -82,14 +82,14 @@ layout: compress
           {% endif %}
         </div>
       </div>
-      {% include ads-bottom.html %}
-    </div>
+      </div>
 
     {% if site.disqus.shortname %}
 
     <div class="comments">
       <div class="container">
         <div class="post-content comments">
+          {% include ads-bottom.html %}
 
           {% include disqus.html %}
 
