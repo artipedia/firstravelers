@@ -5,9 +5,9 @@ description: >
   Travel blog to inspire and get you motivated
 baseurl: "/"
 url: "https://firstravelers.com"
-twitter_username:  # replace with your_twitter_username or comment to remove link from footer
+twitter_username:  
 github_username:  ArtiPedia
-instagram_username:  # replace with your_instagram_username or comment to remove link from footer
+instagram_username:  
 social:
   name: ArtiPedia
   links:
