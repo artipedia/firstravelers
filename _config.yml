@@ -1,12 +1,12 @@
-title: FirsTravelers # your site title
+title: FirsTravelers
 author: ArtiPedia
-email: artipedia243@gmail.com # email for form submission, you also have to change it in _js/scripts.js
+email: artipedia243@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Travel blog to inspire and get you motivated
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://firstravelers.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/"
+url: "https://firstravelers.com"
 twitter_username:  # replace with your_twitter_username or comment to remove link from footer
-github_username:  ArtiPedia # replace with your_github_username or comment to remove link from footer
+github_username:  ArtiPedia
 instagram_username:  # replace with your_instagram_username or comment to remove link from footer
 social:
   name: Your Name
