@@ -3,6 +3,7 @@ layout: post
 title: Vacation in the Raja Ampat Islands
 featured-img: raja-ampat
 mathjax: true
+categories: [destination]
 ---
 
 <p>Raja Ampat Islands became a new district in 2002. Raja Ampat Islands is one of the 14 districts in Papua New. First, Raja Ampat entrance area of Sorong. Raja Ampat Islands currently is part of the province of West Papua. West Papua has 4 large islands namely Waigeo, Salawati and Misool, Batanta islands off as well as the small island of 1847. The Raja Ampat islands located in the South District of Waigeo, Waisai, distance is 36 miles from the town of Sorong. The boundaries of the Raja Ampat Islands, namely the boundary South of Seram Regency is to the North, the western boundary of Central Halmahera, i.e. the eastern boundary of the city of Sorong, Sorong Regency and the northern boundary of that is Federal Republic of Palau. Raja Ampat are subdivided into 117 villages and 24 districts. Population of 70,000 people.</p>
