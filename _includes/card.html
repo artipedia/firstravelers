@@ -3,11 +3,11 @@
   <figure class="post-card__thumb">
     <img
       src="{{site.url}}/assets/img/posts/{{post.featured-img}}.jpg",
-      data-srcset="{{site.url}}/assets/img/posts/{{post.featured-img}}.jpg, {{site.url}}/assets/img/posts/{{post.featured-img}}_thumb.jpg 2x"
+      data-srcset="{{site.url}}/assets/img/posts/{{post.featured-img}}.jpg, {{site.url}}/assets/img/posts/{{post.featured-img}}-thumb.jpg 2x"
       class="lazyload blur"
       alt="{{post.title}}"
     />
-    <noscript><img src="{{site.url}}/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}"></noscript>
+    <noscript><img src="{{site.url}}/assets/img/posts/{{post.featured-img}}-thumb.jpg" alt="{{ post.title }}"></noscript>
   </figure>
   {% else %}
   <figure class="post-card__thumb">
