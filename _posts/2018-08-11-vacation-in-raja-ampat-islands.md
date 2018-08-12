@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vacation in the Raja Ampat Islands'
-featured-img: raja-ampat
+featured-img: rajaampat
 mathjax: true
 categories: destination
 ---
