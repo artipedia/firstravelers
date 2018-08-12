@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Traveling Tips To Bali
+title: 'Traveling Tips To Bali'
 featured-img: bali
 mathjax: true
 categories: [tips]
