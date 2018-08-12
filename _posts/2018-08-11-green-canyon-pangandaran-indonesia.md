@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Green Canyon Pangandaran: West Java Nature Tours Recommended
+title: Green Canyon Pangandaran West Java Nature Tours Recommended
 featured-img: green-canyon
 mathjax: true
-category: [destination]
+
 ---
 
 <p>Don't require all the way to visit the Grand Canyon that exists in America. You can visit the Green Canyon that is in West Java in Indonesia. It turns out that Indonesia has a very pretty Green Canyon. The original name of this place namely Cukang Taneuh. The name Green Canyon was popularized by French citizens in 1993. While the name Cukang Taneuh meaning i.e. land bridge. This is because over the Valley and a Gorge Green Canyon there's a bridge of land used by farmers there to go to their gardens. Green Canyon of Indonesia located in the village Kertayasa, district Cijulang, Ciamis, West Java. Tourism is 130 km and if from Pangandaran is 19 km. Near tourist places are tourist places Batukaras and Nusawiru Airfield.</p><p>
