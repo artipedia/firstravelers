@@ -3,6 +3,7 @@ layout: post
 title: Traveling Tips To Bali
 featured-img: bali
 mathjax: true
+categories: [guide]
 ---
 
 Bali is unpredictable. This is the beauty and fascination that attracts so many people who come here regularly and fell in love with this place.
