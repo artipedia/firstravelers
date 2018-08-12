@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Green Canyon Pangandaran West Java Nature Tours Recommended
+title: 'Green Canyon Pangandaran West Java Nature Tours Recommended'
 featured-img: green-canyon
 mathjax: true
 categories: [destination]
