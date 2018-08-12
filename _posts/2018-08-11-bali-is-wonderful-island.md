@@ -3,7 +3,6 @@ layout: post
 title: Bali is Wonderful Island
 featured-img: bali
 mathjax: true
-category: [destination]
 ---
 
 <p>Bali Island is a small beautiful island and a part of Indonesia archipelago. It own the panorama and unique culture that make this island is exclusively than others. Furthermore, It’s location is in the tropical situation as Dream Island for a vacation. Bali Island has many places of interest such as rice paddies, beautiful panorama, volcanoes, tourism activities as well as attractions. In addition, it also has beautiful jungle, long sandy beaches, warm blue water, crashing surf and friendly people. Moreover, the local people presents daily community ritual and a lot of things make your holiday unforgettable. In Bali, the spirits is coming out to play in the moonlight. You can discover a festival and even a funeral throughout the island. Meanwhile, a good time of the day with sea breeze will complete your holiday dream.</p>
