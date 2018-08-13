@@ -4,13 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
+Traveling is very fun. Some also say, traveling can make you a better person. For this purpose Firstravelers.com exists.
 
-However, you can use free SaaS as a backend for forms, such as [Formspree](https://formspree.io/) to handle form submissions. Sleek has a configured form using formspree ready for you. All you have to do is change the email in `.config.yml`.
+Firstravelers.com is here to inspire, share holiday information, adventures, holiday itineraries, travel stories, hotel reviews, destination reviews, and other travel tips.
 
-Check the form below to see it in action!
-
-### Example Formspree contact form with validation and reCaptcha
+### Contact
 
 Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
 
