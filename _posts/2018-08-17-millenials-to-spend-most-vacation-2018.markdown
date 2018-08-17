@@ -16,15 +16,15 @@ Nearly half of respondents have traveled for business/leisure within the last ye
 
 “Travelport’s survey is good news for the U.S. travel industry, as Americans are cautiously optimistic about taking vacations this summer and next year,” Erika Moore, Travelport’s vice president and general manager for the United States, says. “The key is offering consumers, regardless of their budgets, the best air, hotel, and other vacation deals, which requires travel providers and travel sellers to deliver a personalized, seamless, and stress-free experience at each step of the vacation journey.”
 
-Gender Differences in Spending
+### Gender Differences in Spending
 
 While the biggest group (42 percent) of all survey respondents plan to spend between $1,001 to $5,000 more while on vacation in the next 12 months compared to the past 12 months, males are significantly more likely to splurge than females, with 37 percent of males planning to spend more than $5,000 in the next 12 months, compared to only 15 percent of female respondents.
 
-Education and Income Means More Vacations
+### Education and Income Means More Vacations
 
 Americans with postgraduate degrees and with household incomes above $200,000 are the most likely demographic to take a vacation this summer than last summer. And the same individuals also are most likely to spend more than $5,000 on vacations in the next 12 months compared to the previous 12 months (44 percent and 68 percent, respectively).
 
-Booking Trends
+### Booking Trends
 
 For hotel bookings, Millennials are the most likely to use traditional offline travel agencies (23 percent), compared to Gen Xers and Baby Boomers (7 percent and 6 percent, respectively). Millennials are also more likely to use a travel agency to book travel if a mobile app with customized notifications is available. While 44 percent of Millennials are willing to make the switch, only 23 percent of Gen X respondents and an even smaller proportion (5 percent) of Baby Boomers agree.
 
