@@ -18,11 +18,11 @@ Nearly half of respondents have traveled for business/leisure within the last ye
 
 ### Gender Differences in Spending
 
-While the biggest group (42 percent) of all survey respondents plan to spend between $1,001 to $5,000 more while on vacation in the next 12 months compared to the past 12 months, males are significantly more likely to splurge than females, with 37 percent of males planning to spend more than $5,000 in the next 12 months, compared to only 15 percent of female respondents.
+While the biggest group (42 percent) of all survey respondents plan to spend between 1,001 USD to 5,000 USD more while on vacation in the next 12 months compared to the past 12 months, males are significantly more likely to splurge than females, with 37 percent of males planning to spend more than 5,000 USD in the next 12 months, compared to only 15 percent of female respondents.
 
 ### Education and Income Means More Vacations
 
-Americans with postgraduate degrees and with household incomes above $ 200,000 are the most likely demographic to take a vacation this summer than last summer. And the same individuals also are most likely to spend more than $5,000 on vacations in the next 12 months compared to the previous 12 months (44 percent and 68 percent, respectively).
+Americans with postgraduate degrees and with household incomes above 200,000 USD are the most likely demographic to take a vacation this summer than last summer. And the same individuals also are most likely to spend more than 5,000 USD on vacations in the next 12 months compared to the previous 12 months (44 percent and 68 percent, respectively).
 
 ### Booking Trends
 
