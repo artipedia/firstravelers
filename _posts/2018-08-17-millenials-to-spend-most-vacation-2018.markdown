@@ -22,7 +22,7 @@ While the biggest group (42 percent) of all survey respondents plan to spend bet
 
 ### Education and Income Means More Vacations
 
-Americans with postgraduate degrees and with household incomes above $200,000 are the most likely demographic to take a vacation this summer than last summer. And the same individuals also are most likely to spend more than $5,000 on vacations in the next 12 months compared to the previous 12 months (44 percent and 68 percent, respectively).
+Americans with postgraduate degrees and with household incomes above $ 200,000 are the most likely demographic to take a vacation this summer than last summer. And the same individuals also are most likely to spend more than $5,000 on vacations in the next 12 months compared to the previous 12 months (44 percent and 68 percent, respectively).
 
 ### Booking Trends
 
