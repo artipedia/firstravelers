@@ -6,7 +6,8 @@ mathjax: true
 categories: tips
 ---
 
-Bali is unpredictable. This is the beauty and fascination that attracts so many people who come here regularly and fell in love with this place.
+[Bali](https://firstravelers.com/destination/bali-is-wonderful-island.html "Bali") is unpredictable. This is the beauty and fascination that attracts so many people who come here regularly and fell in love with this place.
+
 
 <table>
   <tbody>
