@@ -16,7 +16,7 @@ The world is full of diverse destinations that are waiting to be explored.
 The world's largest salt flats, spanning 4086 miles (10,582 sq. km), Salar de Uyuni is unlike anywhere else on earth. This awe-inspiring landscape is comprised of glistening white salt, and is completely flat creating the mesmerising reflections.
 
 ### 2. Moraine Lake, Canada
-![Moraine Lake, Kanada]({{ "assets/img/posts/morainelake.jpg" | absolute_url }})
+![Moraine Lake, Kanada]({{ "assets/img/posts/morainlake.jpg" | absolute_url }})
 
 Moraine Lake may only only half the size of its nearby neighbour Lake Louise, but it's even more scenic. Situated in the beautiful Valley Of The Ten Peaks in Banff National Park, this glacier-fed lake turns the most intense and vivid shade of turquoise blue. The setting of the surrounding majestic mountain peaks makes the scene almost surreal.
 
