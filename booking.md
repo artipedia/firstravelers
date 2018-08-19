@@ -4,7 +4,9 @@ title: Booking
 permalink: /booking/
 ---
 
-<ins class="bookingaff" data-aid="1595059" data-target_aid="1595059" data-prod="sbp" data-width="500" data-height="230" data-lang="en" data-df_num_properties="3">
+<div class="center>
+
+<ins class="bookingaff" data-aid="1595059" data-target_aid="1595059" data-prod="sbp" data-width="750" data-height="300" data-lang="en" data-currency="USD" data-cc1="id" data-df_num_properties="3">
     <!-- Anything inside will go away once widget is loaded. -->
     <a href="//www.booking.com?aid=1595059">Booking.com</a>
 </ins>
@@ -17,3 +19,5 @@ permalink: /booking/
       p.parentNode.insertBefore(s,p);
       })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
 </script>
+
+</div>
