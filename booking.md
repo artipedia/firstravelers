@@ -4,7 +4,7 @@ title: Booking
 permalink: /booking/
 ---
 
-<div class="center>
+<div class="center">
 
 <ins class="bookingaff" data-aid="1595059" data-target_aid="1595059" data-prod="sbp" data-width="750" data-height="300" data-lang="en" data-currency="USD" data-cc1="id" data-df_num_properties="3">
     <!-- Anything inside will go away once widget is loaded. -->
