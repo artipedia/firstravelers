@@ -3,7 +3,7 @@ layout: post
 title: 'How to Visiting Raja Ampat?'
 featured-img: raja-ampat
 mathjax: true
-categories: guide
+categories: tips
 ---
 
 Raja Ampat Islands is tropical marine biodiversity Center. Raja Ampat has the uniqueness of species where there are 1,318 kinds of fish, molluscs and 699 537 coral species. Not only are fish, Raja Ampat is also rich with diversity of coral and mangrove forests. 
