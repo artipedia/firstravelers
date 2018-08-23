@@ -26,4 +26,6 @@ Meanwhile, regular boats take about four hours and cost around Rp 100,000 per pe
 ### Island-hopping in Raja Ampat
 The main activity for tourists in Raja Ampat is island-hopping—visiting the four main islands of Raja Ampat, namely Waigeo, Batanta, Salawati and Misool, or perhaps the smaller islets. As the fare may be high, it is advised to arrange transportation and accommodation with your host prior to arrival in Waisai. 
 
+Get Deal: [Beach Homestay Raja Ampat](https://www.booking.com/hotel/id/ampi-waisai.en.html?aid=1595056&no_rooms=1&group_adults=1)
+
 source: <a href="http://www.thejakartapost.com/travel/2016/10/19/guide-to-visiting-raja-ampat-for-first-timers.html" rel="nofollow">The Jakarta Post</a>
