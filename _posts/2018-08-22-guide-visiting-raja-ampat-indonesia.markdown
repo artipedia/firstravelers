@@ -10,7 +10,7 @@ Raja Ampat Islands is tropical marine biodiversity Center. Raja Ampat has the un
 
 Raja Ampat is no longer a foreign destination for diving enthusiasts from around the world. One of its main islands, Misool, has been named one of the Top 100 Global Destinations. Various traveling programs have been created to boost tourism to the regency, including a cruise program by state-owned ship operator Pelni.
 
-For those planning to visit Raja Ampat for the first time, here is a guideline on how to reach the West Papuan region.
+For those planning to [visit Raja Ampat](https://firstravelers.com/destination/vacation-in-raja-ampat-islands.html "Raja Ampat") for the first time, here is a guideline on how to reach the West Papua region.
 
 ### Reaching Sorong
 Before entering the Raja Ampat area, travelers need to reach Domine Eduard Osok Airport in Sorong, West Papua. Both direct and indirect flights are available from Jakarta to Sorong at one-way prices starting from of Rp 1.4 million (US$107). Unfortunately a direct flight from Bali is not yet available.
