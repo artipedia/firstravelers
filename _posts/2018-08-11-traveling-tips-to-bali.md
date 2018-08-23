@@ -457,3 +457,4 @@ categories: tips
   </tbody>
 </table>
 
+Get deals : <a href="https://www.booking.com/searchresults.en.html?region=835&aid=1595056&no_rooms=1&group_adults=1">Hotel, Home, and more</a>
