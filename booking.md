@@ -7,7 +7,7 @@ permalink: /booking/
 Plan your dream vacation to one of these superlative destinations. The world is full of diverse destinations that are waiting to be explored.
 
 <div class="center"><p>
-<ins class="bookingaff" data-aid="1595069" data-target_aid="1595069" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="xu" data-currency="USD" data-df_num_properties="5">
+<ins class="bookingaff" data-aid="1595069" data-target_aid="1595069" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="ualng" data-currency="USD" data-df_num_properties="9">
     <!-- Anything inside will go away once widget is loaded. -->
     <a href="//www.booking.com?aid=1595069">Booking.com</a>
 </ins>
