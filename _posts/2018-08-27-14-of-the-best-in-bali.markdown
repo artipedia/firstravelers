@@ -90,7 +90,7 @@ The surrounding area is filled with five-star resorts like the St. Regis Bali an
 [Balangan]: https://firstravelers.com/assets/img/posts/balangan.jpg "Balangan Beach"
 [Amed]: https://firstravelers.com/assets/img/posts/armed.jpg "Amed Beach"
 [Balian]: https://firstravelers.com/assets/img/posts/ballan.jpg "Balian Beach"
-[Bias]: https://firstravelers.com/assets/img/posts/blas.jpg "Bias Tugal"
+[Bias]: https://firstravelers.com/assets/img/posts/blass.jpg "Bias Tugal"
 [Bingin]: https://firstravelers.com/assets/img/posts/bingin.jpg "Bingin Beach"
 [Green]: https://firstravelers.com/assets/img/posts/green.jpg "Bowl Beach Beach"
 [Karma]: https://firstravelers.com/assets/img/posts/karma.jpg "Karma Beach"
