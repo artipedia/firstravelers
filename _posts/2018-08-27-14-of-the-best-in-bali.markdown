@@ -74,9 +74,9 @@ No matter your preference, Bali is stocked with wonderful beaches. We've highlig
 ![Geger Beach][Geger]
 
 [Balangan]: https://firstravelers.com/assets/img/posts/balangan.jpg "Balangan Beach"
-[Amed]: https://firstravelers.com/assets/img/posts/amed.jpg "Amed Beach"
-[Balian]: https://firstravelers.com/assets/img/posts/balian.jpg "Balian Beach"
-[Bias]: https://firstravelers.com/assets/img/posts/bias.jpg "Bias Tugal"
+[Amed]: https://firstravelers.com/assets/img/posts/armed.jpg "Amed Beach"
+[Balian]: https://firstravelers.com/assets/img/posts/ballan.jpg "Balian Beach"
+[Blas]: https://firstravelers.com/assets/img/posts/blas.jpg "Bias Tugal"
 [Bingin]: https://firstravelers.com/assets/img/posts/bingin.jpg "Bingin Beach"
 [Green]: https://firstravelers.com/assets/img/posts/green.jpg "Bowl Beach Beach"
 [Karma]: https://firstravelers.com/assets/img/posts/karma.jpg "Karma Beach"
