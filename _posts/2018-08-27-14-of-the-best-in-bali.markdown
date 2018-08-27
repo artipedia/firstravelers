@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bali's beaches - 14 of the best for your next trip'
+title: Bali's beaches - 14 of the best for your next trip
 featured-img: kuta
 categories: destination
 ---
