@@ -17,59 +17,73 @@ For adventurers, there are plenty of hidden beaches waiting to be found. Karma B
 
 No matter your preference, Bali is stocked with wonderful beaches. We've highlighted 14 of them in the gallery atop this story.
 
-1. Balangan Beach: The waves can get high at this beach, making it popular with surfers. Rough water and a sharp ocean floor mean most beach-goers are happy to admire the view.
+### Balangan Beach
+he waves can get high at this beach, making it popular with surfers. Rough water and a sharp ocean floor mean most beach-goers are happy to admire the view.
 
 ![Balangan Beach][Balangan]
 
-2. Amed Beach : Lining the island's eastern shore, this black beach is big with divers. The surrounding area is filled with coral and multiple shipwrecks.
+### Amed Beach
+Lining the island's eastern shore, this black beach is big with divers. The surrounding area is filled with coral and multiple shipwrecks.
 
 ![Amed Beach][Amed]
 
-3. Balian Beach: Balian's black sand fills the dunes and provides an escape from Bali's bustling areas. It's a great place to grab a beer and enjoy the sunset.
+### Balian Beach
+Balian's black sand fills the dunes and provides an escape from Bali's bustling areas. It's a great place to grab a beer and enjoy the sunset.
 
 ![Balian Beach][Balian]
 
-4. Bias Tugal: This beach is accessible only through a rough and rocky path, but the effort is worth it. You'll practically have the white sand, coconut trees and turquoise water to yourself.
+### Bias Tugal
+This beach is accessible only through a rough and rocky path, but the effort is worth it. You'll practically have the white sand, coconut trees and turquoise water to yourself.
 
 ![Bias Tugal][Bias]
 
-5. Bingin Beach: White limestone cliffs are a dramatic contrast to the blue waters at this small surfing beach on Bali's Bukit Peninsula. Visitors can stay in everything from surfing camps to boutique resorts and private villas.
+### Bingin Beach
+White limestone cliffs are a dramatic contrast to the blue waters at this small surfing beach on Bali's Bukit Peninsula. Visitors can stay in everything from surfing camps to boutique resorts and private villas.
 
 ![Bingin Beach][Bingin]
 
-6. Green Bowl Beach: The hundreds of steps required to reach this secluded beach keep large crowds away. Nearby caves provide shade on hot days.
+### Green Bowl Beach
+The hundreds of steps required to reach this secluded beach keep large crowds away. Nearby caves provide shade on hot days.
 
 ![Green Bowl Beach][Green]
 
-7. Karma Beach: The descent to this exclusive beach is made via funicular (for a small fee) rather than by stairs. Services include cocktails and shaded lounge chairs -- the area belongs to a high-end beach club open to the public.
+### Karma Beach
+The descent to this exclusive beach is made via funicular (for a small fee) rather than by stairs. Services include cocktails and shaded lounge chairs -- the area belongs to a high-end beach club open to the public.
 
 ![Karma Beach][Karma]
 
-8. Dreamland Beach: Many have been deterred by the major resorts popping up around Dreamland, but the soft-sand beach itself is still worth a visit.
+### Dreamland Beach
+Many have been deterred by the major resorts popping up around Dreamland, but the soft-sand beach itself is still worth a visit.
 
 ![Dreamland Beach][Dreamland]
 
-9. Jimbaran Beach: Jimbaran Beach sits on Bali's southwestern coast, where the mainland connects to the Bukit Peninsula. It's home to luxury resorts like the Four Seasons and the Intercontinental. Restaurants line the shore with tables on the sand.
+### Jimbaran Beach
+Jimbaran Beach sits on Bali's southwestern coast, where the mainland connects to the Bukit Peninsula. It's home to luxury resorts like the Four Seasons and the Intercontinental. Restaurants line the shore with tables on the sand.
 
 ![Jimbaran  Beach][Jimbaran ]
 
-10. Kuta Beach: Kuta sits in a bustling resort town that was once a quiet fishing village. Now, surfers and party hounds from around the world come to ride the long waves and hit the clubs.
+### Kuta Beach
+Kuta sits in a bustling resort town that was once a quiet fishing village. Now, surfers and party hounds from around the world come to ride the long waves and hit the clubs.
 
 ![Kuta Beach][Kuta]
 
-11. Nyang Nyang: Yet another beach that requires some work to get to. Once you find the gate, you'll walk down a series of stairs before emerging at the deserted beach. There are no showers, no restrooms, no vendors.
+### Nyang Nyang
+Yet another beach that requires some work to get to. Once you find the gate, you'll walk down a series of stairs before emerging at the deserted beach. There are no showers, no restrooms, no vendors.
 
 ![Nyang Nyang][Nyang]
 
-12. Padang Padang Beach: "Eat, Pray, Love" fans may recognize this beach as the place where Julia Roberts' character meets her love interest. The water is safe to swim and the surf is some of the most exciting in all of Indonesia.
+### Padang Padang Beach
+"Eat, Pray, Love" fans may recognize this beach as the place where Julia Roberts' character meets her love interest. The water is safe to swim and the surf is some of the most exciting in all of Indonesia.
 
 ![Padang Padang Beach][Padang]
 
-13. Sanur Beach: Though not as touristy as Kuta, Sanur is filled with beachfront resorts. Yet its small fishing village charm is still intact, with local warungs holding their own against luxury hotels.
+### Sanur Beach
+Though not as touristy as Kuta, Sanur is filled with beachfront resorts. Yet its small fishing village charm is still intact, with local warungs holding their own against luxury hotels.
 
 ![Sanur Beach][Sanur]
 
-14. Geger Beach: The surrounding area is filled with five-star resorts like the St. Regis Bali and the Mulia. The water is typically calm, which makes rental kayaks, dinghies and paddleboards hot commodities.
+### Geger Beach
+The surrounding area is filled with five-star resorts like the St. Regis Bali and the Mulia. The water is typically calm, which makes rental kayaks, dinghies and paddleboards hot commodities.
 
 ![Geger Beach][Geger]
 
