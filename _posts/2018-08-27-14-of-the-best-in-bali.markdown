@@ -60,7 +60,7 @@ Many have been deterred by the major resorts popping up around Dreamland, but th
 ### Jimbaran Beach
 Jimbaran Beach sits on Bali's southwestern coast, where the mainland connects to the Bukit Peninsula. It's home to luxury resorts like the Four Seasons and the Intercontinental. Restaurants line the shore with tables on the sand.
 
-![Jimbaran  Beach][Jimbaran ]
+![Jimbaran  Beach][Jimbaran]
 
 ### Kuta Beach
 Kuta sits in a bustling resort town that was once a quiet fishing village. Now, surfers and party hounds from around the world come to ride the long waves and hit the clubs.
