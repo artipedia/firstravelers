@@ -281,8 +281,11 @@ categories: tips
     </tr>
     <tr>
       <td>61 </td>
-      <td> <b>Ocean and beach hazards<b>. Nature is unpredictable. Watch rip currents, undertows, and big waves in general.Watch your kids at all times. <tr> <td>62	</td> <td>	<b>Don’t do drugs - it's not worth it</b>, when you get caught. Read our page about
-        nightlife, prostitution and drugs on Bali</td>
+      <td> <b>Ocean and beach hazards</b>b>. Nature is unpredictable. Watch rip currents, undertows, and big waves in general.Watch your kids at all times. </td>
+    </tr>
+    <tr>
+      <td>62 </td>
+      <td> <b>Don’t do drugs - it's not worth it</b>, when you get caught. Read our page about nightlife, prostitution and drugs on Bali</td>
     </tr>
     <tr>
       <td>63 </td>
@@ -455,6 +458,7 @@ categories: tips
     </tr>
   </tbody>
 </table>
+
 
 
 Get deals : <a href="https://www.booking.com/searchresults.en.html?region=835&aid=1595056&no_rooms=1&group_adults=1">Hotel, Home, and more</a>
