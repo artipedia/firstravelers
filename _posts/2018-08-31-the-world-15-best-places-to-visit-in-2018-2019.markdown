@@ -35,7 +35,7 @@ St. Lucia has been a longtime favorite destination for honeymooners and couples,
 
 ![St. Lucia][Lucia]
 
-### 9 ]Bali](https://firstravelers.com/destination/bali-is-wonderful-island.html "Bali"), Indonesia
+### 9 [Bali](https://firstravelers.com/destination/bali-is-wonderful-island.html "Bali"), Indonesia
 This Indonesian island provides the perfect mix of opportunities for cultural exploration and relaxation. Travelers should spend time visiting and learning about the island's many ancient temples before heading to one of its beautiful beaches. As far as accommodations go, Bali features dozens of villas, hotels and resorts (at varying price points). To up the luxury factor, stay at a five-star resort like the Four Seasons or St. Regis and indulge in a spa treatment. [Best Destination in Bali](https://firstravelers.com/destination/14-of-the-best-in-bali.html "Best Destination in Bali")
 
 ![Bali, Indonesia][Baliindonesia]
