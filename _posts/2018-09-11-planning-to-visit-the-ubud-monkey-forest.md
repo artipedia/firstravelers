@@ -15,6 +15,7 @@ Planning to visit the Ubud Monkey Forest? Here is what to do there:
 ### 1. Explore the Padangtegal Village
 
 ![Explore the Padangtegal Village][etpv]
+
 This is a quaint little village of Bali. The famous Ubud Monkey Forest lies in this densely forested village. Spend some time with the locals here and get to know more about the Balinese customs and traditions. The temples here are a century old with their own intriguing tales and ceremonies.
 
 ### 2. Visit the temples inside Ubud Sanctuary
@@ -39,11 +40,12 @@ These are the top accommodation options near the sanctuary:
 Once a hub for artists, today the place has turned into a luxury resort. Komaneka flaunts its beautiful luxurious suites and pool villas. Other than all the basic facilities it also has a beautiful garden terrace restaurant serving amazing Balinese cuisine and a pool bar. The resort also has the Pandan Wangi Spa which provides spa healing and beauty treatments.
 
 ### 2. Ubud Inn Cottages
+
 ![Ubud Inn Cottages][uic]
 
 Located on Ubud monkey forest road, the property is a blend of both traditional and modern architecture. It is a serene retreat with beautifully manicured tropical gardens. The staff is pretty welcoming and hospitable. There are three kinds of rooms to choose from and all of them come with amazing facilities. Apart from this the property has a swimming pool and amazing Balinese spa treatments.
 
-<div class="source">Source : [Travel Triangle](https://traveltriangle.com/blog/ubud-monkey-forest/)</div>
+<div class="source">Source : [Travel Triangle](https://traveltriangle.com/blog/ubud-monkey-forest)</div>
 
 [uic]: https://firstravelers.com/assets/img/posts/Ubud-Inn-Cottages.jpg "Ubud Inn Cottages"
 [kamf]: https://firstravelers.com/assets/img/posts/Komaneka-at-Monkey-Forest.jpg "Komaneka at Monkey Forest"
