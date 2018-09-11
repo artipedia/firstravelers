@@ -45,7 +45,7 @@ Once a hub for artists, today the place has turned into a luxury resort. Komanek
 
 Located on Ubud monkey forest road, the property is a blend of both traditional and modern architecture. It is a serene retreat with beautifully manicured tropical gardens. The staff is pretty welcoming and hospitable. There are three kinds of rooms to choose from and all of them come with amazing facilities. Apart from this the property has a swimming pool and amazing Balinese spa treatments.
 
-<div class="source">Source : [Travel Triangle](https://traveltriangle.com/blog/ubud-monkey-forest)</div>
+<div class="source">Source : [Travel Triangle](https://traveltriangle.com/blog/ubud-monkey-forest "TravelTiangle")</div>
 
 [uic]: https://firstravelers.com/assets/img/posts/Ubud-Inn-Cottages.jpg "Ubud Inn Cottages"
 [kamf]: https://firstravelers.com/assets/img/posts/Komaneka-at-Monkey-Forest.jpg "Komaneka at Monkey Forest"
